@@ -1,0 +1,7 @@
+{
+  "name": "stage-release",
+  "version": "1.19.0",
+  "dependencies": {
+      "hawk": "2.3.1"
+  }
+ }
